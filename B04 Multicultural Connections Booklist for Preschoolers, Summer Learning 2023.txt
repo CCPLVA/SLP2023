@@ -1,0 +1,22 @@
+{
+	"label": "Multicultural Connections Booklist for Preschoolers, Summer Learning 2023",
+	"description": "Multicultural Connections Booklist for Preschoolers, Summer Learning 2023",
+	"isbns": [
+"9780062915627",
+"9780823440191",
+"9781580897723",
+"9781646141104",
+"9780544949065",
+"9781452102030",
+"9781623540968",
+"9780063247789",
+"9780316475174",
+"9781452150185",
+"9780823446148",
+"9781728231839",
+"9781250842053",
+"9780593428399",
+"9781452180199"
+
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"label": "Multicultural Connections Booklist for Babies and Toddlers, Summer Learning 2023",
+	"description": "Multicultural Connections Booklist for Babies and Toddlers, Summer Learning 2023",
+	"isbns": [
+"9780593351628",
+"9780061915109",
+"9781250127105",
+"9781984816399",
+"9781534432062",
+"9780744039450",
+"9781665902922",
+"9781536212495",
+"9780062298898",
+"9780062414427",
+"9781454908562",
+"9781534474185",
+"9781419748585",
+"9780593123072"
+		
+	]
+}

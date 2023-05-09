@@ -1,0 +1,21 @@
+{
+	"label": "Intergenerational Relationships Booklist for Grades K-2, Summer Learning 2023",
+	"description": "Intergenerational Relationships Booklist for Grades K-2, Summer Learning 2023",
+	"isbns": [
+"9780763669003",
+"9781338572322",
+"9781561459384",
+"9780063026926",
+"9780062396983",
+"9780395570357",
+"9781534465039",
+"9781536217834",
+"9780593127315",
+"9781338759082",
+"9780593302644",
+"9780736482523",
+"9781484778098",
+"9781591123125",
+"9780374325176"
+	]
+}

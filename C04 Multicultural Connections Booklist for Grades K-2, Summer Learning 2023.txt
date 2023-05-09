@@ -1,0 +1,22 @@
+{
+	"label": "Multicultural Connections Booklist for Grades K-2, Summer Learning 2023",
+	"description": "Multicultural Connections Booklist for Grades K-2, Summer Learning 2023",
+	"isbns": [
+"9781773213750",
+"9780316213882",
+"9781426336935",
+"9780823447169",
+"9781524771874",
+"9780688040451",
+"9781499812176",
+"9780593375495",
+"9781541598690",
+"9781547606511",
+"9780593310700",
+"9781536200324",
+"9780525555148",
+"9781641526012",
+"9780525516996"
+
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"label": "Intergenerational Relationships Booklist for Grades 3-5, Summer Learning 2023",
+	"description": "Intergenerational Relationships Booklist for Grades 3-5, Summer Learning 2023",
+	"isbns": [
+"9781524770235",
+"9781524715700",
+"9781984830258",
+"9780593326213",
+"9781534442559",
+"9780545387729",
+"9780763694630",
+"9781984892973",
+"9780544868137",
+"9781481415903",
+"9781401283551",
+"9780358256205",
+"9780545741651",
+"9780062414250",
+"9780763679224",
+"9780062433381"
+
+	]
+}

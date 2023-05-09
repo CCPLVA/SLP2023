@@ -1,0 +1,18 @@
+{
+	"label": "Community Helpers Booklist for Grades 3-5, Summer Learning 2023",
+	"description": "Community Helpers Booklist for Grades 3-5, Summer Learning 2023",
+	"isbns": [
+"9780316538978",
+"9780689845161",
+"9780399162596",
+"9781465470270",
+"9781534480292",
+"9780062802507",
+"9780375858246",
+"9781419743504",
+"9780553497281",
+"9781426323775",
+"9780545818117"
+
+	]
+}

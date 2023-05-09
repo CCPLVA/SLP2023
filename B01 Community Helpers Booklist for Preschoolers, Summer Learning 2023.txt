@@ -1,0 +1,21 @@
+{
+	"label": "Community Helpers Booklist for Preschoolers, Summer Learning 2023",
+	"description": "Community Helpers Booklist for Preschoolers, Summer Learning 2023",
+	"isbns": [
+"9780060271398",
+"9781250231352",
+"9780823451579",
+"9780593307434",
+"9780823444281",
+"9781467752145",
+"9781442458246",
+"9780805093728",
+"9781943978502",
+"9780688158781",
+"9780063066960",
+"9780062868336",
+"9780670035786",
+"9781484728819"
+	
+	]
+}

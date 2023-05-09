@@ -1,0 +1,22 @@
+{
+	"label": "Intergenerational Relationships Booklist for Preschoolers, Summer Learning 2023",
+	"description": "Intergenerational Relationships Booklist for Preschoolers, Summer Learning 2023",
+	"isbns": [
+"9780670013968",
+"9780593430330",
+"9781534454217",
+"9780593354360",
+"9780385753845",
+"780375867132",
+"9781250249319",
+"9780593353943",
+"9781454923817",
+"9781454932321",
+"9781524714314",
+"9781419742255",
+"9781536201949",
+"9780316424721",
+"9780593324608",
+"9781328489890"
+	]
+}
